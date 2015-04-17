@@ -1,0 +1,49 @@
+.c4ctitle {
+    font-family: Consolas, "Lucida Sans Console", "Courier New", monospace;
+    font-size: large;
+    font-weight: bold;
+    color: red;
+    display: inline;
+}
+.c4cfieldset {
+    font-family: Verdana, Arial, sans-serif;
+    min-width: 330px;        
+    border: 1px solid #808080;
+    display: inline;
+    height: 200px;
+    -moz-border-radius: 10px;
+}
+.c4clabel {
+    font-family: Verdana;
+    font-size: small;
+}
+.c4clangchosen  {
+    width: 200px;
+    font-family: Verdana;
+    height: 20px;
+}
+.c4clangchosen option {
+    font-family: Verdana;
+    padding:5px;
+}
+.c4clangchosen optgroup {
+    font-family: Verdana;
+    font-style: normal;
+}
+.c4coutputcontainer {
+	float: left;
+	display: inline;
+	margin-top: 30px;
+	border-top: 1px solid black;
+}
+.c4ctextarea {
+	width: 100%;
+	height: 300px;
+}
+.linestart {
+    margin-left:20px;
+    display:inline;
+}
+.mod_color4code_edit_css {
+
+}
