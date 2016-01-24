@@ -7,11 +7,12 @@
 }
 .c4cfieldset {
     font-family: Verdana, Arial, sans-serif;
-    min-width: 330px;        
+    min-width: 330px;
     border: 1px solid #808080;
     display: inline;
     height: 200px;
     -moz-border-radius: 10px;
+    vertical-align: top;
 }
 .c4clabel {
     font-family: Verdana;
@@ -31,14 +32,14 @@
     font-style: normal;
 }
 .c4coutputcontainer {
-	float: left;
-	display: inline;
-	margin-top: 30px;
-	border-top: 1px solid black;
+    float: left;
+    display: inline;
+    margin-top: 30px;
+    border-top: 1px solid black;
 }
 .c4ctextarea {
-	width: 100%;
-	height: 300px;
+    width: 100%;
+    height: 300px;
 }
 .linestart {
     margin-left:20px;
